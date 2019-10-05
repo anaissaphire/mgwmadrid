@@ -1,0 +1,170 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 56px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 56px;
+    color: #000F83;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+}
+
+h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0,88
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #1F233C;
+}
+
+
+
+/* Header */
+
+header{
+    width: 100%;
+    /* background-color:red; */
+}
+.blueHeader{
+    width: 100%;
+    height:64px;
+    display: flex;
+    align-items: center;
+    background-color: #000F83;
+}
+.itemsBlueHeader{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: pink; */
+}
+.iconHeader{
+    width: 5%;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: chartreuse; */
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.listNavegacion {
+    width: 30%;
+    height: 56px;
+    margin-left: 10%;
+}
+
+.listNavegacion ul {
+    display: flex;
+    justify-content: space-between;
+    width: 110%;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+/* Cabecera */
+
+.cabecera {
+    background-image: url("./img/Imagen portada.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 120px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.cabecera div {
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+}
+
+.cabecera button {
+    width: 245px;
+    height: 60px;
+    font-size: 14px;
+    font-weight: 800;
+    background-color: #0F28F3;
+    color: white;
+    border: none;
+}
+
+.cabecera h1 {
+    margin-right: 50%;
+}
+
+
+/* sobre mgw */
+
+.sobremgw {
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 456px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+
+.sobremgw div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 445 px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.sobremgw img {
+    width: 427px;
+    height: 445px;
+}
+
+.p-mgw p {
+    margin-right: 25%;
+    margin-top: 40px;
+    height: 50px;
+    line-height: 28px;
+}
+
+.sobremgw button {
+    width: 245px;
+    height: 60px;
+    margin-top: 64px;
+    font-size: 14px;
+    font-weight: 800;
+    background-color: white;
+    color: #0F28F3;
+    border: 3px solid #0F28F3;
+}
+
+#bold-bodytext{
+    font-weight: 700;
+}

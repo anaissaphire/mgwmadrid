@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Buscador</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header-Extendido-Desktop" transform="translate(-1155.000000, -23.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Header">
+                <path d="M1162.15942,23 C1166.11351,23 1169.31884,26.2053826 1169.31884,30.1594203 C1169.31884,31.9406841 1168.66832,33.570058 1167.59188,34.8228464 L1173.80879,41.0397565 L1173.02995,41.8185913 L1166.81227,35.6009101 C1165.56092,36.6719594 1163.93573,37.3188406 1162.15942,37.3188406 C1158.20538,37.3188406 1155,34.113513 1155,30.1594203 C1155,26.2053826 1158.20538,23 1162.15942,23 Z M1162.15942,24.1014493 C1158.81369,24.1014493 1156.10145,26.813691 1156.10145,30.1594203 C1156.10145,33.5051826 1158.81369,36.2173913 1162.15942,36.2173913 C1165.50518,36.2173913 1168.21739,33.5051826 1168.21739,30.1594203 C1168.21739,26.813691 1165.50518,24.1014493 1162.15942,24.1014493 Z" id="Buscador"></path>
+            </g>
+        </g>
+    </g>
+</svg>
